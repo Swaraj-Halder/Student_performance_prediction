@@ -1,6 +1,6 @@
 # 🎓 Student Performance Prediction
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/student-performance-prediction/blob/main/notebooks/student_performance_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Swaraj-Halder/student-performance-prediction/blob/main/notebooks/student_performance_colab.ipynb)
 ![Python](https://img.shields.io/badge/python-3.9+-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
